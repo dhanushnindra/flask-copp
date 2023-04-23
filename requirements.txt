@@ -1,5 +1,5 @@
 python==3.11.3
-pip 20.1.1
+pip==23.1.1
 
 pandas==2.0.0
 sklearn==1.2.2
