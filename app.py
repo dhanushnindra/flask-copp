@@ -5,7 +5,6 @@ import itertools
 
 # import sklearn.linear_model
 from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 import joblib
 oildataset = pd.read_csv('clean_total_dataset.csv')
