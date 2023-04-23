@@ -1,1 +1,4 @@
 
+pandas==2.0.0
+sklearn==1.2.2
+Flask==2.2.3
